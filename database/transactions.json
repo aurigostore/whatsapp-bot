@@ -1,0 +1,35 @@
+{
+  "3EB06A6609DF4BBF2CAAD5": {
+    "kodeTrx": "AS030726-852KV",
+    "namaProduk": "canva 1 bulan",
+    "userJid": "251492380479672@lid",
+    "nomorUser": "251492380479672",
+    "namaUser": "ADMIN BOT",
+    "storeJid": "120363403645658055@g.us",
+    "jam": "01:33:30",
+    "tanggal": "03/07/2026",
+    "createdAt": "2026-07-02T18:33:31.588Z"
+  },
+  "3EB0FBE3B83B9E3838E7C4": {
+    "kodeTrx": "AS030726-PPDAE",
+    "namaProduk": "Canva",
+    "userJid": "251492380479672@lid",
+    "nomorUser": "251492380479672",
+    "namaUser": "251492380479672",
+    "storeJid": "120363403645658055@g.us",
+    "jam": "01:47:02",
+    "tanggal": "03/07/2026",
+    "createdAt": "2026-07-02T18:47:03.267Z"
+  },
+  "3EB03A539FD1D1BDA8B9CD": {
+    "kodeTrx": "AS030726-VKYEC",
+    "namaProduk": "netflix 1 bulan",
+    "userJid": "251492380479672@lid",
+    "nomorUser": "251492380479672",
+    "namaUser": "ADMIN BOT",
+    "storeJid": "120363403645658055@g.us",
+    "jam": "01:48:08",
+    "tanggal": "03/07/2026",
+    "createdAt": "2026-07-02T18:48:09.734Z"
+  }
+}
